@@ -133,7 +133,7 @@ endif
 
 all: bitcrystalxd
 
-test check: test_bitcrystal FORCE
+test check: test_bitcrystalx FORCE
 	./test_bicrystalx
 
 #

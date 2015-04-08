@@ -158,10 +158,10 @@ OBJS= \
 	
 
 
-all: bitcrystald
+all: bitcrystalxd
 
-test check: test_bitcrystald FORCE
-	./test_bitcrystal
+test check: test_bitcrystalxd FORCE
+	./test_bitcrystalx
 
 #
 # LevelDB support
