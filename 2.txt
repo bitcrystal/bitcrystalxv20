@@ -1,0 +1,31 @@
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+Zugriff verweigert
+C:\my\ddd\BitCrystal\BitCrystal\BitCrystal-0.8.3r17-master\build_objects\*.o konnte nicht gefunden werden
+Project MESSAGE: Building with QRCode support
+Project MESSAGE: Building with UPNP support
+Project MESSAGE: Building without IPv6 support
+Project MESSAGE: Building with QRCode support
+Project MESSAGE: Building with UPNP support
+Project MESSAGE: Building without IPv6 support
+Project MESSAGE: Building with QRCode support
+Project MESSAGE: Building with UPNP support
+Project MESSAGE: Building without IPv6 support
+mingw32-make[1]: *** [build_win32_objects/bitcoingui.o] Error 1
+mingw32-make[1]: *** Waiting for unfinished jobs....
+mingw32-make[1]: *** [build_win32_objects/transactiontablemodel.o] Error 1
+mingw32-make[1]: *** [build_win32_objects/addresstablemodel.o] Error 1
+mingw32-make[1]: *** [build_win32_objects/bitcoin.o] Interrupt
+mingw32-make[1]: *** Deleting file 'build_win32_objects/bitcoin.o'
+^C
