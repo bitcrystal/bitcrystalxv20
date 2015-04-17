@@ -1710,6 +1710,7 @@ try
 	paramsR.push_back(obj2);
 	params.push_back(paramsR);
 	params.push_back(arr2);
+	return true;
 } catch (...) {
 	return false;
 }
@@ -1786,6 +1787,7 @@ try
 	paramsR.push_back(obj2);
 	params.push_back(paramsR);
 	params.push_back(arr2);
+	return true;
 } catch (...) {
 	return false;
 }
